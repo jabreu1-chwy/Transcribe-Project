@@ -1,0 +1,1 @@
+{"filename": "builds/448f6d96a98bb7aa31acba00ec8fed67e691bd18cf7e0f41cabc9280a5516879.zip", "runtime": "python3.9", "artifacts_dir": "builds", "build_plan": [["zip", "./../transcriber", "transcriber"], ["pip", "python3.9", "./../requirements.txt", null, null]]}

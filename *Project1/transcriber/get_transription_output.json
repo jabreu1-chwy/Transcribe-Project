@@ -1,0 +1,26 @@
+{
+    "TranscriptionJob": {
+        "TranscriptionJobName": "e0ca406e-6ad1-4045-bcbb-4b6eb1ef32ec",
+        "TranscriptionJobStatus": "COMPLETED",
+        "LanguageCode": "en-US",
+        "MediaSampleRateHertz": 8000,
+        "MediaFormat": "wav",
+        "Media": {
+            "MediaFileUri": "s3://joel-bucket-093091-sbx/upload/VoiceMessage3.wav"
+        },
+        "Transcript": {
+            "TranscriptFileUri": "https://s3.us-east-1.amazonaws.com/aws-transcribe-us-east-1-prod/594227135020/e0ca406e-6ad1-4045-bcbb-4b6eb1ef32ec/eac31a6c-6783-48b4-937b-12226d3280e0/asrOutput.json?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDwaCXVzLWVhc3QtMSJGMEQCIG%2BqQ0s3P%2Bc6ivSkVgXfwSDajxASEknNw0vd8KLUFW7pAiB46Kj6tLGIK1Byy2KpbqGzSsLYOzOk9En9qQD4KMa48SrNBAhlEAQaDDI3NjY1NjQzMzE1MyIMWt3B51dTe%2BP5DkhAKqoEBNzJCgrjahEXwjB3giKdkIV1cmI6bggbp%2FCcJ1P0cNlWR1CWGBoyye%2BN%2FY0HUxY0Rry7%2BCosyqFCkG985ATvxJ2rGHP7Ax52Hli1bxQ4Z%2FUjBIAZEYFlPp9Q1wXxjxM2bo1owaTR34eEeNaZaIlRi0Hpf4alud8LMhJ2GHl0KhnhTOPLVjI1oQV2l4fhmxetp9CG8S2wSjl1UcMHu2h0iMtAUcLsZkXRnZbbOwkPUgEBZPA99TH65l3KQiigbUy81poHPf0TKxtFcwu2ODJD80w5dmML2obAbUxcvvbiCZ%2FVmGBhZNOClftQ7uGZEoItGC8MEolFwmr11amBF4VapxDFHxa1HWkyL3Gxwd4W5BqYUUK5y1Faf4yg5sFIXUGNRNoV9%2BhKbZLK9OSH%2Ff4t3aT6EOj4jlvBsyomjlC9GH90e%2FlY3EnAie2wJi1G1qj4tF8B2f2Byv85DxkUh2g1bvPSTZxH5miSEc%2FkTKVV3YbXWAQJFr1ge29J0WtiL1xMxCVsc1wQxdgKDIQofwj5S6f%2F5UuC6lRmOTay5%2BJ2SEKTSCdSb1wA%2BSIoSaVyQDGjd%2BroZgkpO7hpijW9ILdB%2Bs0lveCDwPV9QCoKwIaFwvTaMLK9xPWp48%2BC4Pj8GPE0aUZoNa%2F4iC%2F6LC%2FVdXILqsejNfmMGTBZuEnL1BzJ0a1RG42uPQycrZqWZSO0lYKtlw8qy4BozueMpc5sfl6dW8jNvxiZyE4yBF4wh6DOnAY6qgFj9HGFBRKsZE7jiGRuavpjCQcIqU4xp46r9eQBz47wOYdeQcsM6dcFFYQB1slF97zo42kE8p4huU24rMGiVqz09341HvjILggNiJchoX9ts1Nvq72hPvoL942tcO2CX63sa8Kn1DuEwClDl%2BtRR5R74o6jJQkKT06RdgPpisaok0a7xqcF6dBpQBnfwBHhGByAFc2sN9uc3qGQyd6nPen5PNJ8pSDF9xt1%2BA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221209T204918Z&X-Amz-SignedHeaders=host&X-Amz-Expires=899&X-Amz-Credential=ASIAUA2QCFAA5RZBB4QI%2F20221209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f24eade9bc2f519caf062de58e7d8d4ca856a0f2405139b5e7cf2462175bb3d5"
+        }
+    },
+    "ResponseMetadata": {
+        "RequestId": "d885b0cd-5d6e-44dc-b1d6-9ad1738f0470",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "d885b0cd-5d6e-44dc-b1d6-9ad1738f0470",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "2138",
+            "date": "Fri, 09 Dec 2022 20:49:17 GMT"
+        },
+        "RetryAttempts": 0
+    }
+}
